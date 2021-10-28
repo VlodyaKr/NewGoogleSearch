@@ -1,0 +1,28 @@
+div.centerscreen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+input.btn {
+    margin-top: 10px;
+    margin-right: 5px;
+    border-radius: 15px;
+    border-color:black;
+    background: rgb(153, 214, 60);
+    width: 145px;
+}
+
+input.txt {
+    margin-top: 10px;
+    border-radius: 15px;
+    width: 300px;
+    :height: 40px;
+}
+
+div.topright {
+    text-align: right;
+    margin: 10px;
+}
